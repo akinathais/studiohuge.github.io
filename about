@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+  body {
+    background-color: lightblue;
+  }
+
+  p {
+    color: navy;
+    margin-left: 20px;
+  }
+  </style>
+
+</head>
+<body>
+<p>about</p>
+
+<img src="C:\Users\daniele\Documents\GitHub\studiohuge.github.io\digitalizar0001.png" width="200em">
+
+</body>
+</html>
